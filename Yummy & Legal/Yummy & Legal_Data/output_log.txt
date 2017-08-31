@@ -1,0 +1,121 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560 (ID=0x1201)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+    Driver:   21.21.13.7653
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Develop\Cook\Yummy & Legal\Yummy & Legal_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Develop\Cook\Yummy & Legal\Yummy & Legal_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Develop\Cook\Yummy & Legal\Yummy & Legal_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Develop\Cook\Yummy & Legal\Yummy & Legal_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Develop\Cook\Yummy & Legal\Yummy & Legal_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Develop\Cook\Yummy & Legal\Yummy & Legal_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Develop\Cook\Yummy & Legal\Yummy & Legal_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Develop\Cook\Yummy & Legal\Yummy & Legal_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Develop\Cook\Yummy & Legal\Yummy & Legal_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Develop\Cook\Yummy & Legal\Yummy & Legal_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.248 seconds
+Platform assembly: D:\Develop\Cook\Yummy & Legal\Yummy & Legal_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Develop\Cook\Yummy & Legal\Yummy & Legal_Data\Managed\System.dll (this message is harmless)
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Cutting Board') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 1.124140 ms
+Chef move 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+tomato onMouseDown
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Refrigerator onMouseDown
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Refrigerator onMouseDown
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Chef pickup tomato(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Refrigerator onMouseDown
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Refrigerator process tomato(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>> tomato tomato(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+cucumber onMouseDown
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Refrigerator onMouseDown
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Refrigerator onMouseDown
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Chef pickup cucumber(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Switch True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cutting Board onMouseDown
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cutting Board process tomato(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>> tomato chopped tomato(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Chef move 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Underline.Add 0 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Underline.Add 6 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Underline.Add 0 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Underline.Add 6 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Underline.Add 11 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 162c -> priority: 1 
